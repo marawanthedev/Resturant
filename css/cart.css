@@ -1,0 +1,36 @@
+*{
+
+    padding: 0;
+    margin: 0;
+}
+.container{
+
+    width: 70%;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.item{
+
+    width: 100%;
+    
+}
+
+
+.item-picture{
+
+    width: 50%;
+    float: left;
+}
+.item-content{
+    width: 50%;
+    margin-left: 250px;
+    padding-top: 60px;
+    display: block;
+}
+img[class="item-picture"]{
+
+    width: 20%;
+    height: 20%;
+}
